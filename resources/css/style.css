@@ -1,0 +1,16 @@
+html {
+  font-family: Verdana;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  font-weight: normal;
+}
+
+#Download {
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
+}
